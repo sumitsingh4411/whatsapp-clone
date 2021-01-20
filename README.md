@@ -1,3 +1,17 @@
+# Whatsapp clone
+### [Live Site](https://whatsappz.herokuapp.com/)
+
+![netflix](https://i.ibb.co/WkzhVH4/whatsapp.png)
+![netflix](https://i.ibb.co/gyJLzCH/Ca.png)
+
+## Introduction
+This is a code repository for the corresponding whatsapp . 
+
+In this repository, we're going to build a fully functional whatsapp application using reactjs. 
+
+While building it you're going to learn many advanced React , JavaScript topics, Hooks concept ,firebase authincation, firebase realtime data base, and many more.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
